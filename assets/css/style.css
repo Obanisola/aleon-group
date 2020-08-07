@@ -4583,6 +4583,12 @@ a.close.disabled {
 .agiloft-red {
   color: #F6493D !important;}
 
+.aleon-red {
+  color: #ff4e00 !important;}
+
+.bg-aleon-red {
+  background-color: #ff4e00 !important;}
+
 .bg-primary {
   background-color: #4829B2 !important; }
 
@@ -16048,9 +16054,9 @@ img {
     font-size: 20px;
     background-color: #e5e5e5; }
   .phone:hover {
-    border-color: #4829B2 !important; }
+    border-color: #ff4e00 !important; }
     .phone:hover::before {
-      background-color: #4829B2 !important;
+      background-color: #ff4e00 !important;
       color: #fff; }
 
 .text-white .phone::before {
@@ -17368,8 +17374,8 @@ footer {
     background: transparent;
     border: 0; }
     .accordion-group-steps .accordion.open .accordion-control::before {
-      background: #4829B2;
-      border-color: #4829B2;
+      background: #ff4e00;
+      border-color: #ff4e00;
       color: #fff;
       -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.05);
       -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.05);
@@ -17378,7 +17384,7 @@ footer {
       -moz-transform: scale(1.4);
       transform: scale(1.4); }
     .accordion-group-steps .accordion:hover .accordion-control::before {
-      border-color: #4829B2; }
+      border-color: #ff4e00; }
     .accordion-group-steps .accordion:not(:first-child) {
       margin: 0; }
       .accordion-group-steps .accordion:not(:first-child)::before {
