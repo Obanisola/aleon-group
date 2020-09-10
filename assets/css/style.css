@@ -64,6 +64,10 @@ body {
   text-align: left;
   background-color: #fff; }
 
+.aleon-orange {
+  color:  #e3561d;
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
